@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "src/app/api/ai-models/route.js": {
+      "maxDuration": 60
+    }
+  }
+}
